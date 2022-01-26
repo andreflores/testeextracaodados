@@ -1,0 +1,11 @@
+    
+    <numero>5359751238255941</numero>
+    <validade>202401</validade>
+    <indicador>0</indicador>
+    <nome-portador>genilson lachi soares</nome-portador>
+    </dados-portador>
+--
+    <numero>5359751238255941</numero>
+    <validade>202212</validade>
+    <indicador>1</indicador>
+    <codigo-seguranca>001</codigo-seguranca>
